@@ -1,0 +1,2 @@
+include ':DummyLib'
+project(':DummyLib').projectDir = new File('../DummyLib')
